@@ -34,12 +34,12 @@ def multiply(a, b):
     return a * b
 
 
-# TODO: Implementujte funkci dělení
 def divide(a, b):
-    # if b == 0:
-    #     return "Nelze dělit nulou!"
-    # return a / b
-    pass
+    if b == 0:
+        return "Nelze dělit nulou!"
+
+    return a / b
+
 
 
 if __name__ == "__main__":
