@@ -30,10 +30,9 @@ def subtract(a, b):
     return a - b
 
 
-# TODO: Implementujte funkci násobení
 def multiply(a, b):
-    # return a * b
-    pass
+    return a * b
+
 
 # TODO: Implementujte funkci dělení
 def divide(a, b):
