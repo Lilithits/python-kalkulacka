@@ -46,5 +46,3 @@ if __name__ == "__main__":
     a, b = get_values()
     print("Součet:", add(a, b))
     print("Rozdíl:", subtract(a, b))
-    # print("Součin:", multiply(a, b))
-    # print("Podíl:", divide(a, b))
